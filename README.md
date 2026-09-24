@@ -17,3 +17,5 @@ Go into the "main.py" file uncomment the function that you want to run and run t
 ## Acknowledgements & Credits
 * The base Pong game implementation and window setup were adapted from the tutorial by [Tech With Tim](https://github.com/techwithtim/NEAT-Pong-Python).
 * The NEAT integration, model training logic, serialization (`best.pickle`), and Player vs AI implementation were developed as part of this portfolio project.
+
+The AI implementation and training logic written by me are free to use and modify for educational purposes.
