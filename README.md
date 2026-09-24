@@ -13,3 +13,7 @@ To run this project, you will need Python 3 installed along with the Pygame libr
 
 How to Run
 Go into the "main.py" file uncomment the function that you want to run and run the "main.py" file
+
+## Acknowledgements & Credits
+* The base Pong game implementation and window setup were adapted from the tutorial by [Tech With Tim](https://github.com/techwithtim/NEAT-Pong-Python).
+* The NEAT integration, model training logic, serialization (`best.pickle`), and Player vs AI implementation were developed as part of this portfolio project.
