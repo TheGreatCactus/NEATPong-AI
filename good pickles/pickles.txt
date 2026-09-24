@@ -1,0 +1,9 @@
+1 - very good 5 input pong ai   Inputs: paddle.y, ball.y, abs(paddle.x - ball.x), ball.x_vel, ball.y_vel   Outputs: if 0 nothing, if 1 up, else down
+1.2 - removed unnecessary connections(between two inputs and between two outputs)
+
+2 - an okay 3 input pong ai     Inputs: paddle.y, ball.y, abs(paddle.x - ball.x)                           Outputs: if 0 nothing, if 1 up, else down
+
+WARNING!
+Some of the models were trained using different inputs.
+Replacing the current model in the "best.pickle" file may require changing the inputs provided to the model in the testAi()
+function in the PongGame() class in order to run the testAi() function.
